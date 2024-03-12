@@ -1,4 +1,4 @@
-import {characters}  from "/characters.js"
+import {characters} from "./characters.js"
 
 const generateBtn = document.getElementById("generate-btn")
 const passOne = document.getElementById("field-text-one");
