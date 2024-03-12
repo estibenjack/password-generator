@@ -12,6 +12,8 @@ With this app, the user should be able to:
 
 ### Screenshots
 
+<img width="1044" alt="Desktop screenshot 1" src="https://github.com/estibenjack/password-generator/assets/156148848/f553e820-9254-4f38-a54d-48df746b0786">
+
 
 
 ## My process
